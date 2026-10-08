@@ -1,0 +1,3 @@
+#NoKTP|namaLengkap|Pekerjaan|Alamat|no.Telpn|tanggalLahir|AlamatKantor|Email
+123456778|joe|guru|jl. sumbang no.10|0897761522|24 april 1990|-|joe@mail.com
+123456777|Adi|intern|jl. matias no.1|0879877622|20 maret 1999|jl.kasim|ad@mail.com

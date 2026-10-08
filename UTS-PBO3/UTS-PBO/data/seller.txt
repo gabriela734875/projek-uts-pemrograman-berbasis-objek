@@ -1,0 +1,5 @@
+# idSeller|nama|alamat|noTelepon|email|jabatan
+S001|Syifa Fauziah|Jl. Kali Anyar No. 10|08123456789|cipa@mail.com|Sales Executive
+S002|Rina Amelia|Jl. Mawar No. 4, Bandung|081234567812|rina.amelia@example.com|Sales Consultant
+S003|Dimas Saputra|Jl. Anggrek No. 9, Depok|081234567813|dimas.saputra@example.com|Sales Executive
+S004|Nadia Putri|Jl. Flamboyan No. 6, Jakarta|081234567814|nadia.putri@example.com|Sales Consultant
